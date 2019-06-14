@@ -1,0 +1,33 @@
+title = "GSRI 2019"
+baseURL = "https://liblearn.github.io/gsri"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Graduate Student Research Institute 2019"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "liblearn"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-purple"
+  featured_image = ""
+  recent_posts_number = 2
+  body_classes = "avenir bg-white"
