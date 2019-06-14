@@ -166,4 +166,3 @@ TODO:
 
 - fix hard-coded link to [section](https://github.com/budparr/gohugo-theme-ananke/blob/master/layouts/index.html#L32)
 # gsri
-# gsri
