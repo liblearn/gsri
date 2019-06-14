@@ -2,6 +2,7 @@ title = "GSRI 2019"
 baseURL = "https://liblearn.github.io/gsri/"
 languageCode = "en-us"
 publishDir = "docs"
+theme = "gohugo-theme-ananke"
 
 
 MetaDataFormat = "yaml"
