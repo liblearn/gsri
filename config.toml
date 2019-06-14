@@ -1,6 +1,7 @@
 title = "GSRI 2019"
-baseURL = "https://liblearn.github.io/gsri"
+baseURL = "https://liblearn.github.io/gsri/"
 languageCode = "en-us"
+theme = "gohugo-theme-ananke"
 
 
 MetaDataFormat = "yaml"
